@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B1/point3.cpp
+source.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B1/source.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B1/source.hpp
+iostream
+-
+vector
+-
+stdexcept
+-
+cstring
+-
+
