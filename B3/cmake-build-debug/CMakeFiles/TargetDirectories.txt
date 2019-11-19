@@ -1,0 +1,3 @@
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/cmake-build-debug/CMakeFiles/B3.dir

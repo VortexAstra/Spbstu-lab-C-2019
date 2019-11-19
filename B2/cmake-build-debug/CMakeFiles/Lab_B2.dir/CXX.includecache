@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/Lab_B2/opOne.cpp
+queue.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/Lab_B2/queue.hpp
+algorithm
+-
+sstream
+-
+vector
+-
+iostream
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/Lab_B2/queue.hpp
+deque
+-
+iostream
+-
+list
+-
+

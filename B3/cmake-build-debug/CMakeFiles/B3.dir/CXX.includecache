@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorialContainer.cpp
+factorialContainer.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorialContainer.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorialContainer.hpp
+iterator
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorials.cpp
+iostream
+-
+algorithm
+-
+factorialContainer.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorialContainer.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorials.hpp
+iostream
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/main.cpp
+iostream
+-
+phonebookInterface.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebookInterface.hpp
+factorials.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/factorials.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebook.cpp
+phonebook.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebook.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebook.hpp
+iostream
+-
+string
+-
+list
+-
+map
+-
+set
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebookInterface.cpp
+phonebookInterface.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebookInterface.hpp
+iostream
+-
+sstream
+-
+string
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebookInterface.hpp
+iostream
+-
+phonebook.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/B3/phonebook.hpp
+
