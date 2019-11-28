@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Circle.cpp
+Circle.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Circle.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Circle.hpp
+Shape.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Shape.hpp
+iostream
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Shape.hpp
+iostream
+-
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Square.hpp
+Shape.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Shape.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Triangle.hpp
+Shape.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Shape.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/functions.cpp
+cmath
+-
+iterator
+-
+algorithm
+-
+functions.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/functions.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/functions.hpp
+vector
+-
+string
+-
+iterator
+-
+algorithm
+-
+stdexcept
+-
+sstream
+-
+Circle.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Circle.hpp
+Triangle.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Triangle.hpp
+Square.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/Square.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/main.cpp
+functions.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/7/functions.hpp
+

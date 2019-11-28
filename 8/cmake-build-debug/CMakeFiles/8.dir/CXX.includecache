@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/8/main.cpp
+iostream
+-
+iterator
+-
+vector
+-
+string
+-
+locale
+-
+cstdio
+-
+options.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/8/options.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/8/options.cpp
+utility
+-
+locale
+-
+options.hpp
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/8/options.hpp
+
+/Users/astra/Desktop/ASTRA/Study/НедоПроги/С++/Лабы 3 сем/8/options.hpp
+vector
+-
+locale
+-
+
